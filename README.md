@@ -1,6 +1,6 @@
 # Pong
 
-A recreation of the classic Pong arcade game built in **Unity 6** as part of my personal game development challenge.
+A recreation of the classic Pong arcade game built in Unity 6 using C# as part of my personal game development journey through the 20 Game Challenge.
 
 <p align="center">
   <img src="Media/Pong.gif" alt="Pong Gameplay" width="700">
