@@ -3,7 +3,7 @@
 A recreation of the classic Pong arcade game built in **Unity 6** as part of my personal game development challenge.
 
 <p align="center">
-  <img src="Media/PongGif.gif" alt="Pong Gameplay" width="700">
+  <img src="Media/Pong.gif" alt="Pong Gameplay" width="700">
 </p>
 
 ## Features
