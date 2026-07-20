@@ -2,6 +2,10 @@
 
 A recreation of the classic Pong arcade game built in **Unity 6** as part of my personal game development challenge.
 
+<p align="center">
+  <img src="Media/pong.gif" alt="Pong Gameplay" width="700">
+</p>
+
 ## Features
 
 - 🏓 Two-player local multiplayer
@@ -44,10 +48,6 @@ This project helped me practice:
 - [ ] Win screen
 - [ ] Score limit
 - [ ] Serve countdown
-
-## Screenshots
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e9f321d-021e-43bb-a840-ac8132438c32" />
 
 ## Getting Started
 
